@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Somewhere Only We Know",
+  "base_artist": "Keane",
+  "createdAt": "2026-02-28T06:57:40.516676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/01_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "rhianne",
+      "has_synced": true,
+      "path": "select/02_Somewhere_Only_We_Know_rhianne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/03_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/04_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/05_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/06_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "KeaneVEVO",
+      "has_synced": true,
+      "path": "select/07_Somewhere_Only_We_Know_KeaneVEVO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Gustixa & rhianne",
+      "has_synced": true,
+      "path": "select/08_Somewhere_Only_We_Know_Gustixa_&_rhianne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know Video",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/09_Somewhere_Only_We_Know_Video_Keane.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/10_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Gustixa",
+      "has_synced": true,
+      "path": "select/11_Somewhere_Only_We_Know_Gustixa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/12_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/13_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/14_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "rhianne",
+      "has_synced": true,
+      "path": "select/15_Somewhere_Only_We_Know_rhianne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/16_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/17_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/pl_01_Somewhere_Only_We_Know_Keane.txt"
+    }
+  ]
+}
